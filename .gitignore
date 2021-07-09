@@ -3,3 +3,5 @@ vendor/
 .idea/
 composer.phar
 composer.lock
+teste.php
+local_backup/
